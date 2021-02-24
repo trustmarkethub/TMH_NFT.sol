@@ -1,2 +1,2 @@
-# TMH_NFT.sol
+# TMH_NFT
 TMH NFT on BSC
